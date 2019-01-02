@@ -1,0 +1,6 @@
+[package]
+name = "message"
+version = "0.1.0"
+authors = ["Sean Pianka <pianka@eml.cc>"]
+
+[dependencies]
